@@ -91,3 +91,20 @@ constant() 将一个已经存在的变量值注册为服务，并将其注入到
 ng-include：
 
 其实内部$http.get来获取一个模板
+
+
+
+
+#### ng-bind-html：
+
+[在线地址](https://docs.angularjs.org/api/ng/directive/ngBindHtml)
+
+
+
+#### $sce
+
+Strict Contextual Escaping services
+
+[官方doc地址](https://docs.angularjs.org/api/ng/service/$sce)
+
+
