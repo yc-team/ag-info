@@ -30,3 +30,4 @@ function toJsonReplacer(key, value) {
 
 * [api doc](https://docs.angularjs.org/api/ng/function/angular.fromJson)
 * [demo](http://jsfiddle.net/pkozlowski_opensource/ASspB/1/)
+* [How to use angular.toJson on a angular controller or scope](http://stackoverflow.com/questions/11819301/how-to-use-angular-tojson-on-a-angular-controller-or-scope)
